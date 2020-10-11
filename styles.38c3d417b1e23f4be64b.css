@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Dosis&display=swap);@import url(https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap);.number{font-family:Dosis,sans-serif}.italic{font-family:Caveat,sans-serif}.c3,.c4,.c8{float:left}.c3{width:25%}.c4{width:33.333333%}.c8{width:66.666667%}@media only screen and (max-width:720px){.c4,.c8{width:100%}.s6{width:50%}}
+@import url(https://fonts.googleapis.com/css2?family=Dosis&display=swap);@import url(https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap);.number{font-family:Dosis,sans-serif}.italic{font-family:Caveat,sans-serif}div.price span.cost.sign,div.price span.sign{font-size:12px}div.price span.cost{font-size:24px;color:#fa85ff}.c3,.c4,.c8{float:left}.c3{width:25%}.c4{width:33.333333%}.c8{width:66.666667%}@media only screen and (max-width:720px){.c4,.c8{width:100%}.s6{width:50%}}
 /*!
  * Bootstrap v4.5.2 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
